@@ -23,6 +23,7 @@ To use this project, you must first install the necessary tools. Here are the st
 ### 1. Installing macchanger
 
 To install macchanger, type the following command in the terminal:
-
+### Usage
+python3 mac_change.py
 ```bash
 sudo apt-get install macchanger
