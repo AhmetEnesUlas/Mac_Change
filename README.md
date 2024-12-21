@@ -1,5 +1,5 @@
 # This program was written for users who want to change their MAC address.
-![Tool Photo](main/"photo-1.jpeg")
+![Tool Photo](photo-1.jpeg)
 # Mac Address Changer Tool
 
 This tool is developed to easily change your MAC address. You can change or reset your MAC address both automatically and manually.
