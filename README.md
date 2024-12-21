@@ -31,4 +31,3 @@ sudo apt-get install macchanger
 ```bash
 python mac_change.py
 ```
-python3 mac_change.py
