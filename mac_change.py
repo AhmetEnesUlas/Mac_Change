@@ -44,7 +44,7 @@ def mac():
                 elif choice == 3:
                     # Exit the program
                     os.system("clear")
-                    os.system("figlet Exiting...")  # Fixed indentation here
+                    os.system("figlet Exiting...") 
                     time.sleep(2)
                     os.system("figlet Created By Sub0 Elliot")
                     break  # Exit the loop
