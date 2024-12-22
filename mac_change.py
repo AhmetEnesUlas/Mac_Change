@@ -46,7 +46,7 @@ def mac():
                     os.system("clear")
                     os.system("figlet Exiting...")  # Fixed indentation here
                     time.sleep(2)
-                    os.system("figlet Created By Ahmet Enes ULAS")
+                    os.system("figlet Created By Sub0 Elliot")
                     break  # Exit the loop
             else:
                 print("Error: Invalid choice, please enter a number between 0 and 3.")
